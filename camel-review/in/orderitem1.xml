@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderItem>
+	<id>01</id>
+	<orderId>1</orderId>
+	<description>N2PENCIL</description>
+	<companyId>01</companyId>
+	<price>0.15</price>
+	<amount>200</amount>
+</orderItem>
