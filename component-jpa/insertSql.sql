@@ -1,1 +1,2 @@
-insert into sales(id, sells, description) values(2, "Camilo Andrés", "Pantalón rojo");
+insert into sales(id, no_bill, sells, description) values(1, 123, "Esteban Higuita", "Camisa azul");
+insert into sales(id, no_bill, sells, description) values(2, 321, "Camilo Andrés", "Pantalón rojo");

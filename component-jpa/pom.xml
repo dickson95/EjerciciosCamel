@@ -25,6 +25,11 @@
 		</dependency>
 		<dependency>
 			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-jaxb</artifactId>
+			<version>${maven.camel.plugin.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-jpa</artifactId>
 			<version>${maven.camel.plugin.version}</version>
 		</dependency>
